@@ -1,41 +1,75 @@
-# rezakarimi
-About Me
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/rezakarimi99/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/Rezakarimi99">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=mrrezakarimi99&style=flat-square&color=red" alt=""/>
+  <h1>
+    hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-<a href="https://github.com/mrrezakarimi99/rezakarimi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrrezakarimi99&repo=rezakarimi&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
-</a>
+---
 
-<a href="https://stackoverflow.com/users/14014004/reza-karimi?theme=dark">
-  <img src="https://stackoverflow.com/users/flair/14014004.png" 
-       width="208" 
-       height="58" 
-       alt="profile for reza karimi at Stack Overflow, Q&amp;A for professional and enthusiast programmers" 
-       title="profile for reza karimi at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-</a>
+### About Me :
 
-<h1 align="left">Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<!-- <h3 align="center">A passionate frontend developer from India</h3> -->
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from
+Iran.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suhasrkms&label=Profile%20views&color=0e75b6&style=flat" alt="suhasrkms" /> </p>
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suhasrkms" alt="suhasrkms" /></a> </p> -->
+- :seedling: Exploring Technical Content Writing.
 
-<p align="left"> <a href="https://twitter.com/RkmsSuhas" target="blank"><img src="https://img.shields.io/twitter/follow/RkmsSuhas?logo=twitter&style=for-the-badge" alt="RkmsSuhas" /></a> </p>
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://codepen.io/suhasrkms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="suhasrkms" height="30" width="40" /></a> -->
-<a href="https://twitter.com/RkmsSuhas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suhasrkms" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14259868/suhas-rkms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="suhasrkms" height="30" width="40" /></a>
-<a href="https://instagram.com/suhas_rkms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suhasrkms" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCPj8ztcYe1D6SSuXPDpupeA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="seven stac" height="30" width="40" /></a>
-</p>
+- :mailbox:How to reach
+  me: [![Linkedin Badge](https://img.shields.io/badge/-rezakarimi99-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rezakarimi99/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suhasrkms&show_icons=true&locale=en&layout=compact" alt="suhasrkms" /></p>
+### Languages and Tools :
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=suhasrkms&show_icons=true&locale=en&layout=compact" alt="suhasrkms" /></p>
+<div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suhasrkms&" alt="suhasrkms" /></p>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+
+</div>
+
+---
+
+### My Stats :
+
+<div align="center">
+   <div style="display:flex;"> 
+      <img style="margin:5px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrrezakarimi99&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" width="600" height="200"/>
+   </div>
+   <div style="display:flex;"> 
+      <img style="margin:5px" src="http://github-readme-streak-stats.herokuapp.com?user=mrrezakarimi99&theme=vision-friendly-dark" width="600" height="200"/>
+   </div>
+   <div style="display:flex;"> 
+      <img style="margin:5px" src="https://github-readme-stats.vercel.app/api?username=suhasrkms&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" width="600" height="200"/>
+   </div>
+
+</div>
+
+---
